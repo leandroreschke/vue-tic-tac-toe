@@ -1,19 +1,17 @@
 # vue-tic-tac-toe
 
-## Project setup
+## Sumary
+
+Just a simple tic tac toe built using VueJS 3.2
+
+## Setup
+
+### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
